@@ -16,3 +16,9 @@ U_{0:k} = \text{Historiques des deplacements } u \text{ [List[Vector]]} \\
 m = \text{La liste de tout les repere [List[Vector]]} \\
 Z_{0:k} = \text{Historique La liste de toutes les objervation } z_{k} \text{[List[List[Vector]]]}
 $$
+
+
+Le but du slam est determiner ceci:
+$$
+P(x_k, m| Z_{0:k}, U_{0:k}, x_0)
+$$
