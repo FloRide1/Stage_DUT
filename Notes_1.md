@@ -22,3 +22,6 @@ Le but du slam est determiner ceci:
 $$
 P(x_k, m| Z_{0:k}, U_{0:k}, x_0)
 $$
+
+
+Ransac Algorithm
