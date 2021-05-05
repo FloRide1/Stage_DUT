@@ -1,0 +1,6 @@
+[Amazon.com: Cable Matters Rackmount or Wall Mount 24 Port Keystone Patch Panel (Blank Patch Panel for Keystone Jacks/Keystone Panel): Computers & Accessories](https://www.amazon.com/Cable-Matters-Mount-24-Port-Keystone/dp/B0072JVT02/ref=pd_bxgy_3/143-4934133-5924945?_encoding=UTF8&pd_rd_i=B0072JVT02&pd_rd_r=a45d0745-6cab-4cdb-9650-715c2b9c2e72&pd_rd_w=9OiIM&pd_rd_wg=TAtqb&pf_rd_p=fd3ebcd0-c1a2-44cf-aba2-bbf4810b3732&pf_rd_r=081M58APR7RACKK067CZ&psc=1&refRID=081M58APR)
+
+[[Amazon.com: 3 Pack Red button AC 250V 10A IEC 320 C14 Panel Mount Plug Adapter Power Connector Socket Black Screw Mount 3 Pins Inlet Power Plug Socket by MUZHI: Computers & Accessories](https://www.amazon.com/button-Adapter-Connector-Socket-MXRS/dp/B082ZFRV1B/ref=sr_1_3?dchild=1&keywords=IEC+panel+mount&qid=1620216244&sr=8-3)7RACKK067CZ)
+
+[Amazon.com: Volt Amp Meter, DROK AC 500V 200A Digital Voltmeter Ammeter Panel, 0.39 Inches LED 2in1 Multimeter, 2-Wire Voltage Amperage Tester Gauge with Current Transformer: Industrial & Scientific](https://www.amazon.com/DROK-Multimeter-Voltmeter-Transformer-Two-wires/dp/B01M8LCWNW/ref=bmx_3?pd_rd_w=yWnFL&pf_rd_p=b56a886c-2bb4-4e74-b4cf-23d7a76693c8&pf_rd_r=W08ZVBMXVEXJYR4R9N4B&pd_rd_r=36ef4660-6d52-4c2a-878e-37f66fbaaa2d&pd_rd_wg=4clv1&pd_rd_i=B01M8LCWNW&psc=1#customerReviews)
+
